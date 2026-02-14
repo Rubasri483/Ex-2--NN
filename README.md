@@ -1,8 +1,9 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
-<H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+<H3>Name</H3> RUBASRI R
+<H3>Register no.</H3>212224240139
+<H3>Date</H3>14-02-2026
+
+## Experiment No. 2 
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -127,23 +128,11 @@ plt.show()
 
 # OUTPUT:
 
+<img width="674" height="759" alt="Screenshot 2025-09-16 205859" src="https://github.com/user-attachments/assets/bc9c846c-3934-4a24-a4ec-83b975f2511a" />
 
-<img width="297" height="108" alt="image" src="https://github.com/user-attachments/assets/e926cdd7-09bf-4a02-a760-c960a111dcf2" />
+<img width="559" height="575" alt="Screenshot 2025-09-16 205921" src="https://github.com/user-attachments/assets/26669274-1786-4856-b5f8-b00f9967039a" />
 
-
-
-
-<img width="486" height="408" alt="image" src="https://github.com/user-attachments/assets/724d14f1-4922-446f-8cf4-d5289cc4888f" />
-
-
-
-
-<img width="567" height="435" alt="image" src="https://github.com/user-attachments/assets/97b397a3-9700-4334-9d56-b95092622628" />
-
-
-
-<img width="463" height="380" alt="image" src="https://github.com/user-attachments/assets/cd600962-7508-4187-b978-62bec799ee77" />
-
+<img width="587" height="511" alt="Screenshot 2025-09-16 205928" src="https://github.com/user-attachments/assets/b694444b-6535-4c73-9afb-7e4ec7728a7f" />
 
     
 # RESULT:
